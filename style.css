@@ -1,0 +1,29 @@
+body {
+    background-color:black; 
+}
+.header_div {
+    background-color: black; 
+    color: purple; 
+}
+.header_div e {
+    color: purple;   
+    letter-spacing: 2px;  
+    font-size: 12px;  
+    font-weight: bold; 
+}
+.main_div button {
+    margin-top: 30px; 
+    font-weight: bolder; 
+    letter-spacing: 3px;
+    width: 130px; 
+}
+#copy_right_footer{ 
+    position:  fixed; 
+    color: purple; 
+    background-color: black;
+    bottom: 0; 
+    width: 100%; 
+    text-align: center;
+    line-height: 3; 
+    text-shadow: 5px 5px 5px purple;
+}
